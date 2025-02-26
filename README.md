@@ -52,13 +52,9 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 * <https://startbootstrap.com>
 * <https://twitter.com/SBootstrap>
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+Start Bootstrap was created by and is maintained by **[Hashim M Siraj](https://hashimmsiraj.io/)**.
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Hashim M Siraj](https://twitter.com/fat).
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by (https://twitter.com/mdo) [Hashim M Siraj](https://twitter.com/fat).
 
 ## Copyright and License
 
